@@ -4,7 +4,7 @@
 		"Name" : "XRQ - TRUCK GROUND",
 		"ShipBase" : 3.95,
 		"ShipRate" : 0.99,
-		"rowguid" : ?,
+		"rowguid" : null,
 		"ModifiedDate" : "1998-06-01 00:00:00"
 	},
 	{
@@ -12,7 +12,7 @@
 		"Name" : "ZY - EXPRESS",
 		"ShipBase" : 9.95,
 		"ShipRate" : 1.99,
-		"rowguid" : ?,
+		"rowguid" : null,
 		"ModifiedDate" : "1998-06-01 00:00:00"
 	},
 	{
@@ -20,7 +20,7 @@
 		"Name" : "OVERSEAS - DELUXE",
 		"ShipBase" : 29.95,
 		"ShipRate" : 2.99,
-		"rowguid" : ?,
+		"rowguid" : null,
 		"ModifiedDate" : "1998-06-01 00:00:00"
 	},
 	{
@@ -28,7 +28,7 @@
 		"Name" : "OVERNIGHT J-FAST",
 		"ShipBase" : 21.95,
 		"ShipRate" : 1.29,
-		"rowguid" : ?,
+		"rowguid" : null,
 		"ModifiedDate" : "1998-06-01 00:00:00"
 	},
 	{
@@ -36,7 +36,7 @@
 		"Name" : "CARGO TRANSPORT 5",
 		"ShipBase" : 8.99,
 		"ShipRate" : 1.49,
-		"rowguid" : ?,
+		"rowguid" : null,
 		"ModifiedDate" : "1998-06-01 00:00:00"
 	}
 ]
